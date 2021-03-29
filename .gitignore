@@ -57,7 +57,7 @@ src/minecraft_server/net/minecraft/src/ThreadConnectToServer.java
 src/minecraft_server/net/minecraft/src/ThreadOnlineConnect.java
 CHANGELOG
 LICENSE.txt
-.metadata/
+.metadata/.plugins
 bin/
 cleanup.bat
 cleanup.sh
