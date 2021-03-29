@@ -1,0 +1,10 @@
+// **** Map Addon Config Settings ****
+
+// **** Color Settings ****
+
+// set the following to 0 to use default map color palette
+// set to 1 for sepia map color palette
+// set to 2 for desat map color palette
+// set to 3 for happy map color palette
+
+mapAddonPaletteConf=1
